@@ -1,0 +1,6 @@
+fileName: ./log/foo1.log,./log/foo2.log
+email:
+  sendMail: 1205995782@qq.com
+  password: rdzzvkpcuifyggdg
+  acceptMail: 67363085@qq.com
+  subject: 日志异常提醒
